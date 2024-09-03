@@ -47,6 +47,6 @@ public class Evento {
      * @return A string representation of an object of this class
      */
     public String toString() {
-        return "{Evento: nome='" + this.getNome() + "   , atracao='" + this.getAtracao() + "}";
+        return "{Evento: nome='" + this.getNome() + "', atração='" + this.getAtracao() + "'}";
     }
 }
