@@ -1,3 +1,6 @@
+/**
+ * A class that represents an event
+ */
 public class Evento {
     /**
      * Name of the event
